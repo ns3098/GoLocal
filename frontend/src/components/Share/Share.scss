@@ -1,0 +1,28 @@
+@import "stylebase/variables";
+
+.Share-toggle {
+  color: $color-primary;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  background: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+.Share-icon {
+  margin-right: 5px;
+  display: block;
+  width: 25px;
+}
+
+.Share-message {
+  padding: $padding-wrapper;
+  color: $color-black;
+}
+
+.Alert {
+  padding: 18px;
+}
+

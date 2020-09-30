@@ -1,0 +1,33 @@
+.ProductList {
+  padding-bottom: $padding-wrapper;
+}
+
+.Product-heading {
+  padding: $padding-wrapper $padding-wrapper 15px;
+  font-size: 30px;
+}
+
+.ProductList-filter {
+  padding: 10px $padding-wrapper 6px;
+  display: flex;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.09);
+  position: sticky;
+  background-color: #FFFFFF;
+  top: 0;
+
+  select {
+    margin-left: 25px;
+  }
+}
+
+.product-actions-group {
+  .Btn {
+    padding: .75rem 8px;
+    width: 45%;
+  }
+}
+
+.product-border-padding-top--0 {
+  border-top: 0px!important;
+  padding-top: 10px!important;
+}

@@ -1,0 +1,188 @@
+@import "stylebase/variables";
+@import "stylebase/utils";
+
+.CheckBox-field,
+.FileUpload-field,
+.TextInput-label-text {
+  @include a11y-visually-hidden;
+}
+
+.TextInput-field {
+  border-radius: $border-radius;
+  border: 1px solid $color-dark-gray;
+  background: $color-light-gray;
+  padding: .85em $input-padding-right 1.25em $input-padding-left;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  caret-color: $color-primary;
+
+  &:focus {
+    outline: 0;
+    border-color: $color-primary;
+    color: $color-primary;
+  }
+}
+
+.TextInput-error {
+  margin-top: 5px;
+  color: #e74c3c;
+  font-size: 16px;
+}
+
+.TextInput-helpText {
+  margin-top: 5px;
+  display: block;
+  color: $color-dark-gray;
+  font-style: italic;
+}
+
+.FileUpload {
+  margin-top: 10px;
+  display: block;
+}
+
+.FileUpload-preview {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.FileUpload-img {
+  height: 50px;
+  margin: (-.85em) 15px (-1.25em) (-$input-padding-left);
+  border-radius: $border-radius 0 0 $border-radius;
+}
+
+.FileUpload--editView {
+  position: relative;
+
+  .Btn {
+    display: none;
+  }
+
+  .TextInput-field {
+    background: 0;
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+  }
+
+  .FileUpload-img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 0;
+    opacity: 0.4;
+  }
+}
+
+.FileUpload-pen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -35px;
+  margin-left: -35px;
+}
+
+.CheckBox {
+  position: relative;
+  margin-top: 1.2em;
+
+  label {
+    display: flex;
+  }
+
+  a {
+    border-bottom: 1px solid currentColor;
+  }
+
+  path {
+    fill: none;
+    stroke: $color-primary;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 71px;
+    stroke-dashoffset: 71px;
+    transition: stroke-dashoffset .6s ease;
+  }
+
+  &:hover path, &:focus-within path {
+    stroke-dashoffset: 0
+  }
+
+  polyline {
+    fill: none;
+    stroke: #FFF;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 18px;
+    stroke-dashoffset: 18px;
+    transition: stroke-dashoffset .3s ease;
+  }
+}
+
+.CheckBox-label {
+  padding-left: 2em;
+}
+
+.CheckBox-check {
+  margin-right: 8px;
+  width: 20px;
+  height: 20px;
+  border: 2px solid $color-dark-gray;
+  border-radius: 3px;
+  display: inline-block;
+  position: absolute;
+
+  svg {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+  }
+}
+
+.CheckBox-field {
+
+  &:checked + .CheckBox-check {
+    border-color: $color-primary;
+
+    path {
+      fill: $color-primary;
+    }
+
+    polyline {
+      stroke-dashoffset: 0;
+    }
+  }
+}
+
+select {
+  background: $color-gray;
+  border-radius: 5px;
+  border: 0;
+  padding: 5px 10px;
+  font-style: italic;
+  position: relative;
+}
+
+.FieldGroup {
+  display: flex;
+
+  .FieldGroup-field {
+    flex: 1;
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.Label {
+  color: $color-dark-gray;
+  margin-bottom: 5px;
+  font-weight: 600;
+}

@@ -1,0 +1,83 @@
+@import "stylebase/variables";
+@import "stylebase/utils";
+
+.Header {
+  height: $header-height;
+  border-bottom: 1px solid $color-primary;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.09);
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  z-index: $header-index;
+  top: 0;
+  width: 100%;
+  background: #fff;
+  font-size: 16px;
+
+  @include bp-medium() {
+    border-bottom-color: $color-middle-gray;
+    padding: 0 40px;
+    height: $header-height--desktop;
+  }
+
+  @include bp-large() {
+    font-size: 20px;
+  }
+
+  .Share {
+    @include bp-medium() {
+      display: none;
+    }
+  }
+}
+
+.Header--partner {
+  background: $color-dark-gray;
+  border-bottom: 0;
+  color: $color-white;
+
+  @include bp-medium() {
+    a {
+      color: $color-white;
+    }
+  }
+
+  .Header-logo g path {
+    fill: $color-white;
+  }
+}
+
+.Header-logo {
+  margin: 0 auto;
+  width: 90px;
+
+  @include bp-medium() {
+    margin: 0;
+    width: 195px;
+  }
+}
+
+
+$header-partner-offset: 15px;
+.Header-partners {
+  display: flex;
+  align-items: center;
+  margin-left: $header-partner-offset;
+  height: 100%;
+  padding-left: $header-partner-offset;
+  border-left: 1px solid $color-white;
+  font-size: 14px;
+}
+
+.Header-partners-img {
+  margin-right: $header-partner-offset;
+
+  img {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid $color-primary;
+  }
+}

@@ -1,0 +1,26 @@
+@import "stylebase/variables";
+@import "stylebase/utils";
+
+.Home {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: $padding-wrapper;
+  background: center / cover no-repeat url('../assets/home_bg.png');
+
+  @include bp-medium() {
+    padding: 60px 40px;
+
+    .Intro {
+      max-width: 450px;
+    }
+
+    .Intro p {
+      margin-top: 20px;
+      font-size: 20px;
+      line-height: 26px;
+      font-weight: 400;
+    }
+  }
+}

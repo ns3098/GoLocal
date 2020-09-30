@@ -1,0 +1,15 @@
+{
+  "category": "Produktkategorie",
+  "name": "Name des Produkts",
+  "price": "Preis in € (Bsp: 2,99)",
+  "partner_sku": "Produktnummer",
+  "quantity": "In welcher Menge kannst Du das Produkt anbieten? (In Stück)",
+  "description": "Produktbeschreibung",
+  "photoEdit": "Produktfoto bearbeiten",
+  "photo": "Produktfoto hochladen",
+  "photoHelp": ".JPEG, .JPG, .PNG (Nur diese Dateitypen werden akzeptiert).",
+  "saveProduct": "Produkt speichern",
+  "editProduct": "Produkt bearbeiten",
+  "addProduct": "Neues Produkt hinzufügen",
+  "productList": "Produkt Liste"
+}

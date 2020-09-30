@@ -1,0 +1,23 @@
+{
+  "name": "Name des Geschäfts",
+  "address": "Adresse des Geschäfts",
+  "city": "Stadt",
+  "zip": "Postleitzahl",
+  "vatNo": "Ust.-ID-Nr.",
+  "email": "E-Mail-Adresse des Geschäfts",
+  "phoneNumber": "Telefonnummer des Geschäfts",
+  "website": "Website (falls vorhanden)",
+  "description": "Beschreibung des Geschäfts",
+  "googleConfirm": {
+    "head": "Geschäftsdaten",
+    "text": "Jetzt richten wir dein Geschäftskonto ein! Bitte fülle zunächst die unteren Felder aus. *Bitte beachte, dass wir deine USt-ID-Nr verifizieren müssen, bevor du Produkte verkaufen kannst. Bis dahin kannst du jedoch schon deine Produkte anlegen und deinen Shop fertigstellen.",
+    "continue": "Speichern & Fortfahren"
+  },
+  "searchGoogle": {
+    "head": "Nenne Dein Geschäft",
+    "text": "Unter welchem Namen ist Dein Unternehmen bekannt? Gib einen Namen ein."
+  },
+  "intro": {
+    "button_manually": "Geschäftsdaten selbst eintragen"
+  }
+}

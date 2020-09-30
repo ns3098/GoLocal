@@ -1,0 +1,23 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+
+  .TextInput {
+    margin-bottom: 15px;
+  }
+}
+
+.Form-errors {
+  margin: 5px 0 15px;
+  color: #e74c3c;
+  font-size: 16px;
+}
+
+.Form-body {
+  margin: 0 0 35px;
+}
+
+.Form-footer {
+  margin-top: auto;
+}

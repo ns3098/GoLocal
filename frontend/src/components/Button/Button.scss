@@ -1,0 +1,102 @@
+@import "stylebase/variables";
+@import "stylebase/utils";
+
+.Btn {
+  display: block;
+  width: 100%;
+  padding: .75rem 1.5rem;
+  border-radius: 10px;
+  border: 0;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: .02em;
+  text-decoration: none;
+  color: $color-white;
+  text-align: center;
+  background: $color-primary;
+  cursor: pointer;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.09);
+
+  &:hover {
+    color: $color-white;
+  }
+
+  @include bp-large() {
+    font-size: 20px;
+    padding: 18px 25px;
+  }
+
+  &--bordered {
+    background: transparent;
+    border: 1px solid $color-green;
+    color: $color-green;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  &--secondary {
+    color: $color-dark-gray;
+    background: $color-gray;
+    font-weight: 400;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  &--pay {
+    background: $color-blue;
+  }
+
+  &--inverted {
+    background: #fff;
+    color: $color-black;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  &--confirm {
+    background: $color-green;
+  }
+
+  &--dismiss {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    color: $color-black;
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  &--disabled {
+    background: $color-middle-gray;
+    color: $color-dark-gray;
+    opacity: 0.5;
+
+    &:hover {
+      color: $color-dark-gray;
+    }
+  }
+
+  &--small {
+    padding: .75rem 1.5rem;
+  }
+}
+
+.Btn-group {
+  display: flex;
+  flex-direction: column;
+
+  > * + * {
+    margin-top: 12px;
+
+    @include bp-large() {
+      margin-top: 20px;
+    }
+  }
+}

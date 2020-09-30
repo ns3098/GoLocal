@@ -1,0 +1,25 @@
+@import "stylebase/variables";
+@import "stylebase/utils";
+
+.Orders {
+  flex-direction: column;
+}
+
+.Order-overview {
+  width: 100%;
+}
+
+.Order-overview-header {
+  margin-top: $margin-wrapper;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Orders-heading {
+  font-weight: 700;
+}
+
+.Orders-heading-pl {
+  padding-left: $padding-wrapper;
+}
