@@ -64,24 +64,4 @@ jobs:
         npm run build
       working-directory: ./frontend
 
-    - if: github.event_name == 'push'
-      name: Deploy to Server
-      uses: appleboy/scp-action@master
-      env:
-        HOST: ${{ secrets.HOST }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PORT: ${{ secrets.PORT }}
-        KEY: ${{ secrets.KEY }}
-      with:
-        source: "./frontend/build,./backend,Pipfile,production.txt"
-        target: "~"
-
-    - if: github.event_name == 'push'
-      name: execute remote deploy.sh
-      uses: appleboy/ssh-action@master
-      with:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}
-        KEY: ${{ secrets.KEY }}
-        port: ${{ secrets.PORT }}
-        script: sh deploy.sh
+    
