@@ -39,13 +39,7 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: test django
-      run: |
-        pipenv --python "C:/Users/nitin/AppData/Local/Programs/Python/Python38/python"
-        python -m pip install --upgrade pip setuptools wheel
-        pip install pipenv
-        pipenv install
-        pipenv run ./backend/manage.py makemigrations --dry-run --check --noinput
+    
 
     - name: Cache node modules
       uses: actions/cache@v1
