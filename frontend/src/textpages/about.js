@@ -23,60 +23,6 @@ import thomas from '../assets/team/thomas.png';
 import { Trans, useTranslation } from 'react-i18next';
 
 
-const departments = [
-  {
-    title: 'Project coordination',
-    people: [
-      { name: 'Marco Schmid', image: marco, link: 'https://www.linkedin.com/in/marco-schmid-1a39861a4/', position: 'Project coordination' },
-      { name: 'Nicolai Huss', image: nicolai, link: 'https://www.linkedin.com/in/nicolai-huss/', position: 'Project coordination' },
-      { name: 'Fabian Katz', image: fabian_katz, link: 'https://www.linkedin.com/in/fabian-katz/', position: 'Project coordination' },
-      { name: 'Philipp Veller', image: philipp, link: 'https://www.linkedin.com/in/philipp-veller-webdev/', position: 'Project coordination', sub: 'Head of development' },
-    ],
-  },
-  {
-    title: 'Development',
-    people: [
-      { name: 'David Doan', image: david, link: 'https://www.linkedin.com/in/ddoan89/', position: 'Developer' },
-      { name: 'Naomi Wickham', image: naomi, link: 'https://www.linkedin.com/in/naomiwickham/', position: 'Developer' },
-      { name: 'Akolade Adesanmi', image: akolade, link: 'https://www.linkedin.com/in/akolade-adesanmi-156276142/', position: 'Developer' },
-    ],
-  },
-  {
-    title: 'Marketing',
-    people: [
-      { name: 'Fabian Ochs', image: fabian, link: 'https://www.linkedin.com/in/fabian-ochs-395b701a7/', position: 'Marketing' },
-      { name: 'Lea Joos', image: lea, link: 'https://www.linkedin.com/in/lea-joos-5808a5174/', position: 'Marketing' },
-      { name: 'Silvia Mogas', image: silvia, link: 'https://www.linkedin.com/in/silviamogas/', position: 'Marketing' },
-      { name: 'Lisa Heite', image: lisa, link: 'https://linkedin.com/in/lisa-heite', position: 'Marketing' },
-      { name: 'Laura Maria Kassovicova', image: laura, link: 'https://www.linkedin.com/in/lauramariak/', position: 'Marketing' },
-
-    ],
-  },
-  {
-    title: 'Design',
-    people: [
-      { name: 'Balint Csizmadia', image: balint, link: 'https://www.linkedin.com/in/balint-design/', position: 'Branding/UX design' },
-      { name: 'Ines Filipp', image: ines, link: 'https://www.linkedin.com/company/weareGoLocal/', position: 'Branding/UX design' },
-    ],
-  },
-  {
-    title: 'Innovation',
-    people: [
-      { name: 'Moritz Giebel', image: moritz, link: 'https://www.linkedin.com/in/moritz-giebel-030054153/', position: 'Innovation' },
-      { name: 'Chiara Demming', image: chiara, link: 'https://www.linkedin.com/in/chiara-demming-5b81171a8/', position: 'Innovation' },
-      { name: 'Thomas Betz-Mors', image: thomas, link: 'https://www.linkedin.com/in/thomas-b-288a08136/', position: 'Innovation' },
-
-    ],
-  },
-  {
-    title: 'Finance',
-    people: [
-      { name: 'Volker Jetter', image: volker, link: 'https://www.linkedin.com/in/volker-jetter-0bb412ba/', position: 'Finance' },
-      { name: 'Nico Buechsenstein', image: nico, link: 'https://www.linkedin.com/in/nicobuechsenstein/', position: 'Finance' },
-
-    ],
-  },
-]
 
 const AboutPage = () => {
   const [t] = useTranslation('about');
@@ -106,7 +52,7 @@ const AboutPage = () => {
             and are interested in the project. Feel free to reach out to us! </p>
         </Trans>
       </div>
-      
+
     </div>
   )
 }
