@@ -11,17 +11,15 @@ import EnlistModal from '../components/EnlistModal/EnlistModal';
 const Home = () => {
   const [t] = useTranslation('home');
   const { partners } = useUserContext();
-//  const items = { ...localStorage };
-  //var print = JSON.stringify(items);
-//  window.alert(print);
+
   return (
     <ViewWrappers.View>
       <ViewWrappers.ViewSplitter size="sm">
       <EnlistModal/>
         <div className="Home">
           <div className="Intro">
-            <h1>{t('Support your favourite shop online')}</h1>
-            <p>{t('GoLocal is an online marketplace that enables local retailers to easily offer their products online and thereby help to overcome the corona crisis.')}</p>
+            <h1>{t('head')}</h1>
+            <p>{t('text')}</p>
           </div>
 
           <div className="Btn-group">

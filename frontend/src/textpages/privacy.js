@@ -2,339 +2,273 @@ import React from 'react';
 
 
 export default (<>
-    <h1>Datenschutzerkl&auml;rung</h1> <p><strong>Verantwortlicher
-    f&uuml;r die Datenverarbeitung
-    ist:</strong><br/> Covexit<br/> Gottesauerstr.,
-    31<br/> Karlsruhe<br/> Deutschland<br/> <br/> info@covexit.de</p> <p>Wir
-    freuen uns &uuml;ber Ihr Interesse an unserem Online-Shop. Der Schutz Ihrer
-    Privatsph&auml;re ist f&uuml;r uns sehr wichtig. Nachstehend informieren wir
-    Sie ausf&uuml;hrlich &uuml;ber den Umgang mit Ihren Daten.</p>  <p>
-    <strong>1.&nbsp;Zugriffsdaten und Hosting</strong></p>  <p>Sie
-    k&ouml;nnen unsere Webseiten besuchen, ohne Angaben zu Ihrer Person zu
-    machen. Bei jedem Aufruf einer Webseite speichert der Webserver lediglich
-    automatisch ein sogenanntes Server-Logfile, das z.B. den Namen der
-    angeforderten Datei, Ihre IP-Adresse, Datum und Uhrzeit des
-    Abrufs, &uuml;bertragene Datenmenge und den anfragenden Provider
-    (Zugriffsdaten) enth&auml;lt und den Abruf dokumentiert.</p> <p>Diese
-    Zugriffsdaten werden ausschlie&szlig;lich zum Zwecke der Sicherstellung
-    eines st&ouml;rungsfreien Betriebs der Seite sowie der Verbesserung unseres
-    Angebots ausgewertet. Dies dient gem&auml;&szlig; Art. 6 Abs. 1 S. 1 lit. f
-    DSGVO der Wahrung unserer im Rahmen einer
-    Interessensabw&auml;gung &uuml;berwiegenden berechtigten Interessen an einer
-    korrekten Darstellung unseres Angebots. Alle Zugriffsdaten werden
-    sp&auml;testens sieben Tage nach Ende Ihres Seitenbesuchs gel&ouml;scht.</p>
-    <p><strong>Hostingdienstleistungen durch einen
-      Drittanbieter</strong><br/> Im Rahmen einer Verarbeitung in unserem
-      Auftrag
-      erbringt ein Drittanbieter f&uuml;r uns die Dienste zum Hosting und zur
-      Darstellung der Webseite. Alle Daten, die im Rahmen der Nutzung dieser
-      Webseite oder in daf&uuml;r vorgesehenen Formularen im Onlineshop wie
-      folgend beschrieben erhoben werden, werden auf seinen Servern verarbeitet.
-      Eine Verarbeitung auf anderen Servern findet nur in dem hier
-      erl&auml;uterten Rahmen statt.<strong> </strong></p> <p>Dieser
-    Dienstleister
-    sitzt innerhalb eines Landes der Europ&auml;ischen Union oder des
-    Europ&auml;ischen Wirtschaftsraums.</p>   <p>
-    <strong>2.&nbsp;Datenerhebung und -verwendung zur Vertragsabwicklung,
-      Kontaktaufnahme und bei Er&ouml;ffnung eines Kundenkontos</strong></p>
-    <p>Wir erheben personenbezogene Daten, wenn Sie uns diese im Rahmen
-      Ihrer Bestellung oder bei einer Kontaktaufnahme mit uns (z.B. per
-      Kontaktformular oder E-Mail) freiwillig mitteilen. Pflichtfelder werden
-      als
-      solche gekennzeichnet, da wir in diesen F&auml;llen die Daten zwingend zur
-      Vertragsabwicklung, bzw. zur Bearbeitung Ihrer Kontaktaufnahme
-      ben&ouml;tigen und Sie ohne deren Angabe die Bestellung bzw. die
-      Kontaktaufnahme nicht versenden k&ouml;nnen. Welche Daten erhoben werden,
-      ist aus den jeweiligen Eingabeformularen ersichtlich. Wir verwenden die
-      von
-      ihnen mitgeteilten Daten gem&auml;&szlig; Art. 6 Abs. 1 S. 1 lit. b DSGVO
-      zur Vertragsabwicklung und Bearbeitung Ihrer Anfragen.<br/> Soweit Sie
-      hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt
-      haben,
-      indem Sie Sich f&uuml;r die Er&ouml;ffnung eines Kundenkontos entscheiden,
-      verwenden wir Ihre Daten zum Zwecke der
-      Kundenkontoer&ouml;ffnung.<br/> Nach
-      vollst&auml;ndiger Abwicklung des Vertrages oder L&ouml;schung Ihres
-      Kundenkontos werden Ihre Daten f&uuml;r die weitere Verarbeitung
-      eingeschr&auml;nkt und nach Ablauf der steuer- und handelsrechtlichen
-      Aufbewahrungsfristen gel&ouml;scht, sofern Sie nicht ausdr&uuml;cklich in
-      eine weitere Nutzung Ihrer Daten eingewilligt haben oder wir uns eine
-      dar&uuml;ber hinausgehende Datenverwendung vorbehalten, die gesetzlich
-      erlaubt ist und &uuml;ber die wir Sie in dieser Erkl&auml;rung
-      informieren.
-      Die L&ouml;schung Ihres Kundenkontos ist jederzeit m&ouml;glich und kann
-      entweder durch eine Nachricht an die unten beschriebene
-      Kontaktm&ouml;glichkeit oder &uuml;ber eine daf&uuml;r vorgesehene
-      Funktion
-      im Kundenkonto erfolgen.</p> <p><strong>3.&nbsp;Datenweitergabe</strong>
+    <h1> Data protection declaration </h1> <p> <strong> Responsible
+    for data processing
+    is: </strong> <br/> GoLocal <br/> India. <br/> info@GoLocal.com </p> <p> We
+    Thank you for your interest in our online shop. Protecting your
+    Privacy is very important to us. We will inform you below
+    You in detail about the handling of your data. </p> <p>
+    <strong> 1.   Access data and hosting </strong> </p> <p> You
+    can visit our website without providing any personal information
+    do. Each time a website is accessed, the web server only saves
+    automatically a so-called server log file, e.g. the name of
+    requested file, your IP address, date and time of the
+    Retrieval, amount of data transferred and the requesting provider
+    (Access data) and document the retrieval. </p> <p> This
+    Access data are used exclusively for the purpose of security
+    trouble-free operation of the site and the improvement of our
+    Offer evaluated. This is used in accordance with Art. 6 para. 1 sentence 1 lit. f
+    GDPR the preservation of our in the context of a
+    Weighing of interests predominantly legitimate interests in a
+    correct presentation of our offer. All access data will be
+    Deleted no later than seven days after the end of your page visit. </p>
+    <p> <strong> Hosting services by a
+      Third party provider </strong> <br/> As part of processing in our
+      assignment
+      a third party provider provides us with the hosting and
+      Presentation of the website. All data collected in the context of using this
+      Website or in the forms provided for this in the online shop such as
+      are collected as described below, are processed on its servers.
+      Processing on other servers only takes place here
+      explained frame. <strong> </strong> </p> <p> This
+    service provider
+    sits within a country of the European Union or the
+    European Economic Area. </p> <p>
+    <strong> 2.   Data collection and use for contract processing,
+      Contacting and opening a customer account </strong> </p>
+    <p> We collect personal data if you give us this within the framework
+      Your order or when you contact us (e.g. by
+      Contact form or email) voluntarily. Become mandatory
+      as
+      such, because in these cases we must provide the data
+      Contract processing or to process your contact
+      need and you without specifying the order or the
+      Cannot send contact. Which data is collected
+      can be seen from the respective input forms. We use that
+      from
+      data communicated to you according to   Art. 6 para. 1 sentence 1 lit. b GDPR
+      to process contracts and your inquiries. As far as you are
+      your consent in accordance with Art. 6 Para. 1 S. 1 lit. a GDPR granted
+      to have,
+      by opting to open a customer account,
+      we use your data for the purpose of
+      Customer account opening. <br/> After
+      complete processing of the contract or cancellation of your
+      Customer accounts will store your data for further processing
+      restricted and after the expiry of the tax and commercial law
+      Retention periods are deleted unless you expressly specify in
+      have consented to the further use of your data or we have a
+      We reserve the right to use data beyond that required by law
+      is allowed and we will tell you about it in this statement
+      to inform.
+      The deletion of your customer account is possible and possible at any time
+      either by sending a message to the one described below
+      Contact possibility or via one provided for this
+      function
+      in the customer account. </p> <p> <strong> 3.   Data transfer </strong>
   </p>
-    <p>Zur Vertragserf&uuml;llung gem&auml;&szlig; Art. 6 Abs. 1 S. 1
-      lit. b DSGVO geben wir Ihre Daten an das mit der Lieferung beauftragte
-      Versandunternehmen weiter, soweit dies zur Lieferung bestellter Waren
-      erforderlich ist. Je nach dem, welchen Zahlungsdienstleister Sie im
-      Bestellprozess ausw&auml;hlen, geben wir zur Abwicklung von Zahlungen die
-      hierf&uuml;r erhobenen Zahlungsdaten an das mit der Zahlung beauftragte
-      Kreditinstitut und ggf. von uns beauftragte Zahlungsdienstleister weiter
-      bzw. an den ausgew&auml;hlten Zahlungsdienst. Zum Teil erheben die
-      ausgew&auml;hlten Zahlungsdienstleister diese Daten auch selbst, soweit
-      Sie
-      dort ein Konto anlegen. In diesem Fall m&uuml;ssen Sie sich im
-      Bestellprozess mit Ihren Zugangsdaten bei dem Zahlungsdienstleister
-      anmelden. Es gilt insoweit die Datenschutzerkl&auml;rung des jeweiligen
-      Zahlungsdienstleisters.</p>   <p>Entsprechendes gilt f&uuml;r
-    die Datenweitergabe an unsere Hersteller bzw. Gro&szlig;h&auml;ndler in den
-    F&auml;llen, in denen sie den Versand f&uuml;r uns &uuml;bernehmen
-    (Streckengesch&auml;ft).</p>  <p>
-    <strong>4.&nbsp;E-Mail-Newsletter </strong></p>  <p><strong>E-Mail-Werbung
-    mit Anmeldung zum Newsletter</strong><br/> Wenn Sie sich zu unserem
-    Newsletter anmelden, verwenden wir die hierf&uuml;r erforderlichen oder
-    gesondert von Ihnen mitgeteilten Daten, um Ihnen regelm&auml;&szlig;ig
-    unseren E-Mail-Newsletter aufgrund Ihrer Einwilligung gem&auml;&szlig; Art.
-    6 Abs. 1 S. 1 lit. a DSGVO zuzusenden.</p> <p>Die Abmeldung vom Newsletter
-    ist jederzeit m&ouml;glich und kann entweder durch eine Nachricht an die
-    unten beschriebene Kontaktm&ouml;glichkeit oder &uuml;ber einen daf&uuml;r
-    vorgesehenen Link im Newsletter erfolgen. Nach Abmeldung l&ouml;schen wir
-    Ihre E-Mail-Adresse aus der Empf&auml;ngerliste, soweit Sie nicht
-    ausdr&uuml;cklich in eine weitere Nutzung Ihrer Daten eingewilligt haben
-    oder wir uns eine dar&uuml;ber hinausgehende Datenverwendung vorbehalten,
-    die gesetzlich erlaubt ist und &uuml;ber die wir Sie in dieser
-    Erkl&auml;rung informieren. </p><p><strong>5.&nbsp;Cookies</strong></p>
-    <p>Um den Besuch unserer Webseite attraktiv zu gestalten und die Nutzung
-      bestimmter Funktionen zu ermöglichen, um passende Produkte anzuzeigen oder
-      zur Marktforschung verwenden wir auf verschiedenen Seiten sogenannte
-      Cookies, soweit Sie hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit.
-      a DSGVO erteilt haben. Darüber hinaus verwenden wir Cookies, soweit dies
-      zur Erfüllung einer rechtlichen Verpflichtungen erforderlich ist, der wir
-      unterliegen, gemäß Art. 6 Abs. 1 S. 1 lit. c DSGVO sowie zur Wahrung
-      unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten
-      Interessen an einer optimierten Darstellung unseres Angebots gemäß Art. 6
-      Abs. 1 S. 1 lit. f DSGVO. Weitere Informationen zu einzelnen Cookies und
-      der jeweiligen Rechtsgrundlage finden Sie in den nachfolgenden Abschnitten
-      dieser Datenschutzerklärung.</p> <p>Cookies sind kleine Textdateien, die
-    automatisch auf Ihrem Endger&auml;t gespeichert werden. Einige der von uns
-    verwendeten Cookies werden nach Ende der Browser-Sitzung, also nach
-    Schlie&szlig;en Ihres Browsers, wieder gel&ouml;scht (sog.
-    Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endger&auml;t und
-    erm&ouml;glichen uns, Ihren Browser beim n&auml;chsten Besuch
-    wiederzuerkennen (persistente Cookies). Die Dauer der Speicherung
-    k&ouml;nnen Sie der &Uuml;bersicht in den Cookie-Einstellungen Ihres
-    Webbrowsers entnehmen. Sie k&ouml;nnen Ihren Browser so einstellen, dass
-    Sie &uuml;ber das Setzen von Cookies informiert werden und einzeln &uuml;ber
-    deren Annahme entscheiden oder die Annahme von Cookies f&uuml;r bestimmte
-    F&auml;lle oder generell ausschlie&szlig;en. Bei der Nichtannahme von
-    Cookies kann die Funktionalit&auml;t unserer Webseite eingeschr&auml;nkt
-    sein. Jeder Browser unterscheidet sich in der Art, wie er die
-    Cookie-Einstellungen verwaltet. Diese ist in dem Hilfemen&uuml; jedes
-    Browsers beschrieben, welches Ihnen erl&auml;utert, wie Sie Ihre
-    Cookie-Einstellungen &auml;ndern k&ouml;nnen. Diese finden Sie f&uuml;r die
-    jeweiligen Browser unter den folgenden Links:</p> <p>
-    <a href="https://support.microsoft.com/de-de/help/4027947/microsoft-edge-delete-cookies" target="_blank" rel="noopener noreferrer">Microsoft
-      Edge&trade;</a> / <a href="https://support.apple.com/de-de/guide/safari/sfri11471/12.0/mac/10.14 " target="_blank" rel="noopener noreferrer">Safari&trade;</a> / <a href="https://support.google.com/chrome/answer/95647?hl=de&amp;hlrm=en" target="_blank" rel="noopener noreferrer">Chrome&trade;</a> / <a href="https://support.mozilla.org/de/products/firefox/protect-your-privacy/cookies" target="_blank" rel="noopener noreferrer">Firefox&trade;</a> / <a href="https://help.opera.com/de/latest/web-preferences/#cookies" target="_blank" rel="noopener noreferrer">Opera&trade;</a>
-  </p> <p>Soweit Sie hierzu Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a
-    DSGVO erteilt haben, k&ouml;nnen Sie Ihre Einwilligung dar&uuml;ber hinaus
-    jederzeit durch eine Nachricht an die in der Datenschutzerkl&auml;rung
-    beschriebene Kontaktm&ouml;glichkeit widerrufen.</p> <p>
-    <strong>6.&nbsp;Online-Marketing</strong></p> <p><strong>Google
-    Maps</strong><br/>Diese Webseite verwendet Google Maps zur visuellen
-    Darstellung von geographischen Informationen. Google Maps ist ein Angebot
-    der Google Ireland Limited, einer nach irischem Recht eingetragenen und
-    betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4,
-    Irland
-    (<a data-cke-saved-href="http://www.google.de" href="http://www.google.de" target="_blank" rel="noopener noreferrer">www.google.de</a>).
-    Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung
-    überwiegenden berechtigten Interessen an einer optimierten Darstellung
-    unseres Angebots sowie einer leichten Erreichbarkeit unserer Standorte gemäß
-    Art. 6 Abs. 1 S. 1 lit. f) DSGVO.<br/>Bei der Verwendung von Google Maps
-    werden von Google Daten über die Nutzung der Maps-Funktionen durch
-    Webseitenbesucher übermittelt bzw. verarbeitet, wozu insbesondere die
-    IP-Adresse sowie Standortdaten gehören können. Wir haben keinen Einfluss
-    auf diese Datenverarbeitung. Soweit Informationen auf Server von Google in
-    den USA übertragen und dort gespeichert werden, ist die amerikanische
-    Gesellschaft Google LLC unter dem EU-US-Privacy Shield zertifiziert. Ein
-    aktuelles Zertifikat
-    kann <a data-cke-saved-href="https://www.privacyshield.gov/list" href="https://www.privacyshield.gov/list" target="_blank" rel="noopener noreferrer">hier</a> eingesehen
-    werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen
-    Kommission hat letztere für unter dem Privacy Shield zertifizierte
-    Unternehmen ein angemessenes Datenschutzniveau festgestellt. <br/>Um den
-    Service von Google Maps zu deaktivieren und damit die Datenübermittlung
-    an Google zu verhindern, müssen Sie die Java-Script-Funktion in Ihrem
-    Browser deaktivieren. In diesem Fall kann Google Maps nicht bzw. nur
-    eingeschränkt genutzt werden. <br/>Weitergehende Informationen über die
-    Datenverarbeitung durch Google finden Sie in den Datenschutzhinweisen
-    von <a data-cke-saved-href="https://www.google.com/privacypolicy.html" href="https://www.google.com/privacypolicy.html" target="_blank" rel="noopener noreferrer">Google</a>.
-    Die Nutzungsbedingungen
-    für <a data-cke-saved-href="https://www.google.com/intl/de_de/help/terms_maps.html" href="https://www.google.com/intl/de_de/help/terms_maps.html" target="_blank" rel="noopener noreferrer">Google
-      Maps</a> beinhalten detaillierte Informationen zum
-    Kartendienst. <br/>Die Datenverarbeitung erfolgt auf Grundlage einer
-    Vereinbarung zwischen gemeinsam Verantwortlichen gemäß Art. 26
-    DSGVO, die
-    Sie <a data-cke-saved-href="https://privacy.google.com/intl/de/businesses/mapscontrollerterms/" href="https://privacy.google.com/intl/de/businesses/mapscontrollerterms/" target="_blank" rel="noopener noreferrer">hier</a> einsehen
-    können.</p><p><br/></p> <p><strong>Google Fonts</strong><br/>Auf
-    dieser Webseite ist der Script Code „Google Fonts“ eingebunden. Google Fonts
-    ist ein Angebot der Google Ireland Limited, einer nach irischem Recht
-    eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow
-    Street, Dublin 4, Irland.
-    (<a data-cke-saved-href="http://www.google.de" href="http://www.google.de" target="_blank" rel="noopener noreferrer">www.google.de</a>).
-    Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung
-    überwiegenden berechtigten Interessen an einer einheitlichen Darstellung der
-    Inhalte auf unserer Webseite gemäß Art. 6 Abs. 1 lit. f) DSGVO. In diesem
-    Rahmen wird eine Verbindung zwischen dem von Ihnen verwendeten Browser und
-    den Servern von Google hergestellt. Hierdurch erlangt Google Kenntnis
-    darüber, dass über Ihre IP-Adresse unsere Webseite aufgerufen wurde.<br/>Soweit
-    Informationen auf Server von Google in den USA übertragen und dort
-    gespeichert werden, ist die amerikanische Gesellschaft Google LLC unter
-    dem EU-US-Privacy Shield zertifiziert. Ein aktuelles Zertifikat
-    kann <a data-cke-saved-href="https://www.privacyshield.gov/list" href="https://www.privacyshield.gov/list" target="_blank" rel="noopener noreferrer">hier</a> eingesehen
-    werden. Aufgrund dieses Abkommens zwischen den USA und der Europäischen
-    Kommission hat letztere für unter dem Privacy Shield zertifizierte
-    Unternehmen ein angemessenes Datenschutzniveau festgestellt. Weitergehende
-    Informationen über die Datenverarbeitung durch Google finden Sie in
-    den <a data-cke-saved-href="https://policies.google.com/privacy" href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Datenschutzhinweisen</a> von
-    Google.</p> <p><strong>7.&nbsp;Social Media</strong></p> <p><strong>Unsere
-    Onlinepräsenz auf Facebook, Twitter, Youtube, Instagram, LinkedIn</strong>
-  </p><p>Unsere Präsenz auf sozialen Netzwerken und Plattformen dient einer
-    besseren, aktiven Kommunikation mit unseren Kunden und Interessenten. Wir
-    informieren dort über unsere Produkte und laufende Sonderaktionen.<br/>Bei
-    dem Besuch unserer Onlinepräsenzen in sozialen Medien können Ihre Daten
-    für Marktforschungs- und Werbezwecke automatisch erhoben und gespeichert
-    werden. Aus diesen Daten werden unter Verwendung von Pseudonymen sog.
-    Nutzungsprofile erstellt. Diese können verwendet werden, um z.B.
-    Werbeanzeigen innerhalb und außerhalb der Plattformen zu schalten, die
-    mutmaßlich Ihren Interessen entsprechen. Zu diesem Zweck werden im
-    Regelfall Cookies auf Ihrem Endgerät eingesetzt. In diesen Cookies werden
-    das Besucherverhalten und die Interessen der Nutzer gespeichert. Dies
-    dient gem. Art. 6 Abs. 1 lit. f. DSGVO der Wahrung unserer im Rahmen einer
-    Interessensabwägung überwiegenden berechtigten Interessen an einer
-    optimierten Darstellung unseres Angebots und effektiver Kommunikation mit
-    den Kunden und Interessenten. Falls Sie von den jeweiligen Social-Media
-    Plattformbetreibern um eine Einwilligung (Einverständnis) in die
-    Datenverarbeitung gebeten werden, z.B. mit Hilfe einer Checkbox, ist die
-    Rechtsgrundlage der Datenverarbeitung Art. 6 Abs. 1 lit. a DSGVO.<br/>Soweit
-    die vorgenannten Social-Media Plattformen ihren Hauptsitz in den USA
-    haben, gilt Folgendes: Für die USA liegt ein Angemessenheitsbeschluss
-    der Europäischen Kommission vor. Dieser geht zurück auf den EU-US
-    Privacy Shield. Ein aktuelles Zertifikat für das jeweilige Unternehmen
-    kann <a data-cke-saved-href="https://www.privacyshield.gov/list" href="https://www.privacyshield.gov/list" target="_blank" rel="noopener noreferrer">hier</a> eingesehen
-    werden.<br/>Die detaillierten Informationen zur Verarbeitung und Nutzung
-    der Daten durch die Anbieter auf deren Seiten sowie eine
-    Kontaktmöglichkeit und Ihre diesbezüglichen Rechte und
-    Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre, insbesondere
-    Widerspruchsmöglichkeiten (Opt-Out), entnehmen Sie bitte den unten
-    verlinkten Datenschutzhinweisen der Anbieter. Sollten Sie
-    diesbezüglich dennoch Hilfe benötigen, können Sie sich an uns wenden.
+  <p> To fulfill the contract according to   Art. 6 para. 1 sentence 1
+    lit. b GDPR, we pass your data on to the person responsible for the delivery
+    Forwarding companies, insofar as this is for the delivery of ordered goods
+    is required. Depending on which payment service provider you use in
+    If you select the order process, we will provide the
+    Payment data collected for this purpose to the person responsible for the payment
+    Credit institute and any payment service providers commissioned by us
+    or to the selected payment service. In part they raise
+    The selected payment service provider also records this data themselves, if
+    you
+    create an account there. In this case you need to contact the
+    Order process with your access data at the payment service provider
+    Sign in. The data protection declaration of the respective
+    Payment service provider. </p> <p> The same applies to
+  the data transfer to our manufacturers or wholesalers in the
+  Cases in which they do the shipping for us
+  (Line business). </p> <p>
+  <strong> 4.   Email newsletter </strong> </p> <p> <strong> Email advertising
+  with registration for the newsletter </strong> <br/> If you subscribe to our
+  If you register for the newsletter, we will use the required or
+  separately provided by you, in order to provide you with regular
+  our e-mail newsletter on the basis of your consent in accordance with Art.
+  6 para. 1 sentence 1 lit. a GDPR. </p> <p> Unsubscribing from the newsletter
+  is possible at any time and can either be sent by a message to the
+  Contact option described below or via one of them
+  provided link in the newsletter. After logging out we delete
+  Your email address from the recipient list, if you do not
+  have expressly consented to further use of your data
+  or we reserve the right to use data beyond this,
+  which is permitted by law and about which we refer you in this
+  Inform the declaration. </p><p><strong>5.&nbsp;Cookies</strong> </p>
+  <p> To make visiting our website attractive and using it
+    enable certain functions to display suitable products or
+    For market research we use so-called on various pages
+    Cookies, insofar as you have given your consent to this in accordance with Art. 6 Para.
+    a GDPR. In addition, we use cookies as far as this is possible
+    is necessary to fulfill a legal obligation that we
+    according to Art. 6 Para. 1 S. 1 lit. c GDPR and to safeguard
+    our predominantly legitimate within the scope of a weighing of interests
+    Interests in an optimized presentation of our offer in accordance with Art. 6
+    Paragraph 1 p. 1 lit. f GDPR. Further information on individual cookies and
+    the respective legal basis can be found in the following sections
+    this privacy policy. </p> <p> Cookies are small text files that
+    automatically saved on your device. Some of us
+    Cookies used are saved after the end of the browser session, i.e. after
+    Close your browser, delete it again (so-called.
+    Session cookies). Other cookies remain on your device and
+    allow us to use your browser on your next visit
+    Recognize (persistent cookies). The duration of the storage
+    You can see the overview in the cookie settings of your
+    The web browser. You can set your browser so that
+    You will be informed about the setting of cookies and individually
+    Decide whether to accept them or to accept cookies for certain
+    Cases or generally exclude. If you do not accept
+    Cookies can limit the functionality of our website
+    his. Each browser differs in the way it handles the
+    Cookie settings managed. This is in the help menu. each
+    Browser, which explains how to use your
+    Can change cookie settings. You can find these for the
+    respective browser under the following links: </p> <p>
+    <a href="https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies" target="_blank" rel="noopener noreferrer"> Microsoft
+      Edge & trade; </a> / <a href="https://support.apple.com/en-us/guide/safari/sfri11471/12.0/mac/10.14 " target="_blank" rel="noopener noreferrer"> Safari & trade; </a> / <a href="https://support.google.com/chrome/answer/95647?hl=de&amp;hlrm=en" target="_blank" rel="noopener noreferrer"> Chrome & trade; </a> / <a href="https://support.mozilla.org/de/products/firefox/protect-your-privacy/cookies" target="_blank" rel="noopener noreferrer"> Firefox & trade; </ a> / <a href="https://help.opera.com/de/latest/web-preferences/#cookies" target="_blank" rel="noopener noreferrer"> Opera & trade; </a>
+  </p> <p> Insofar as you have given your consent in accordance with Art. 6 Para. 1 S. 1 lit. a
+    GDPR, you can also give your consent
+    at any time by sending a message to the in the data protection declaration
+    Revoke the described contact option. </p> <p>
+    <strong>6.&nbsp;Online Marketing</strong> </p> <p> <strong> Google
+    Maps </strong> <br/> This website uses Google Maps for visual
+    Representation of geographic information. Google Maps is an offer
+    of Google Ireland Limited, registered under Irish law and
+    operated company with its registered office at Gordon House, Barrow Street, Dublin 4,
+    Ireland
+    (<a data-cke-saved-href="http://www.google.de" href="http://www.google.de" target="_blank" rel="noopener noreferrer"> www.google .de </a>).
+    This serves to safeguard our interests in the context of a weighing of interests
+    predominant legitimate interests in an optimized presentation
+    our offer as well as easy accessibility of our locations
+    Art. 6 para. 1 sentence 1 lit. f) GDPR. <br/> When using Google Maps
+    Google collects data on the use of the Maps functions
+    Website visitors transmitted or processed, including in particular the
+    IP address as well as location data. We do not have influence
+    on this data processing. As far as information on Google servers in
+    transferred to the USA and stored there is the American
+    Company Google LLC certified under the EU-US Privacy Shield. One
+    current certificate
+    can <a data-cke-saved-href = "https://www.privacyshield.gov/list" href = "https://www.privacyshield.gov/list" target = "_ blank" rel = "noopener noreferrer" > viewed here </a>
+    will. Because of this agreement between the US and the European
+    Commission has the latter for certified under the Privacy Shield
+    Company has established an adequate level of data protection. <br/> To the
+    Deactivate the Google Maps service and thus the data transmission
+    to prevent Google, you have to activate the Java Script function in your
+    Deactivate browser. In this case, Google Maps cannot or only
+    can be used to a limited extent. <br/> Further information about the
+    You can find data processing by Google in the data protection information
+    from <a data-cke-saved-href = "https://www.google.com/privacypolicy.html" href = "https://www.google.com/privacypolicy.html" target = "_ blank" rel = "noopener noreferrer"> Google </a>.
+    The terms of use
+    for <a data-cke-saved-href = "https://www.google.com/intl/de_de/help/terms_maps.html" href = "https://www.google.com/intl/de_de/help /terms_maps.html "target =" _ blank "rel =" noopener noreferrer "> Google
+      Maps </a> contain detailed information about the
+    Map service. <br/> The data processing takes place on the basis of a
+    Agreement between jointly responsible persons in accordance with Art. 26
+    GDPR, the
+    You <a data-cke-saved-href = "https://privacy.google.com/intl/de/businesses/mapscontrollerterms/" href = "https://privacy.google.com/intl/de/businesses/ mapscontrollerterms / "target =" _ blank "rel =" noopener noreferrer "> view here </a>
+    can. </p> <p> <br/> </p> <p> <strong> Google Fonts </strong> <br/> On
+    The script code "Google Fonts" is integrated into this website. Google Fonts
+    is an offer from Google Ireland Limited, one under Irish law
+    registered and operated company located at Gordon House, Barrow
+    Street, Dublin 4, Ireland.
+    (<a data-cke-saved-href="http://www.google.de" href="http://www.google.de" target="_blank" rel="noopener noreferrer"> www.google .de </a>).
+    This serves to safeguard our interests in the context of a weighing of interests
+    overriding legitimate interests in a uniform presentation of the
+    Content on our website in accordance with Art. 6 Para. 1 lit. f) GDPR. In this
+    The framework will establish a connection between the browser you are using and
+    produced by Google's servers. This gives Google knowledge
+    that our website was accessed via your IP address. So much
+    Information is transferred to Google servers in the USA and there
+    is the American company Google LLC under
+    certified under the EU-US Privacy Shield. A current certificate
+    can <a data-cke-saved-href = "https://www.privacyshield.gov/list" href = "https://www.privacyshield.gov/list" target = "_ blank" rel = "noopener noreferrer" > viewed here </a>
+    will. Because of this agreement between the US and the European
+    Commission has the latter for certified under the Privacy Shield
+    Company has established an adequate level of data protection. Further
+    Information on data processing by Google can be found in
+    the <a data-cke-saved-href = "https://policies.google.com/privacy" href = "https://policies.google.com/privacy" target = "_ blank" rel = "noopener noreferrer" > Data protection information </a> from
+    Google. </p> <p> <strong> 7.   Contact options and your rights </strong>
   </p>
-    <p>Facebook: <a href="https://www.facebook.com/about/privacy" target="_blank" rel="noopener noreferrer">https://www.facebook.com/about/privacy/</a><br/> Die
-      Datenverarbeitung erfolgt auf Grundlage einer Vereinbarung zwischen
-      gemeinsam Verantwortlichen gem&auml;&szlig; Art. 26 DSGVO, die
-      Sie <a href="https://www.facebook.com/legal/terms/page_controller_addendum" target="_blank" rel="noopener noreferrer">hier</a> einsehen
-      k&ouml;nnen.<br/> Weitere Informationen zur Datenverarbeitung im Rahmen
-      des Besuchs einer Facebook Fanpage (Informationen zu Insights-Daten)
-      finden
-      Sie <a href="https://www.facebook.com/legal/terms/information_about_page_insights_data" target="_blank" rel="noopener noreferrer">hier</a>.
-    </p> <p>Google/
-    YouTube: <a href="https://policies.google.com/privacy?hl=de" target="_blank" rel="noopener noreferrer">https://policies.google.com/privacy?hl=de</a>
-  </p>
-    <p>Twitter: <a href="https://twitter.com/de/privacy" target="_blank" rel="noopener noreferrer">https://twitter.com/de/privacy</a>
-    </p>
-    <p>Instagram: <a href="https://help.instagram.com/519522125107875" target="_blank" rel="noopener noreferrer">https://help.instagram.com/519522125107875</a>
-    </p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/legal/privacy-policy</a>
-    </p> <p>Widerspruchsm&ouml;glichkeit (Opt-Out):</p>
-    <p>Facebook: <a href="https://www.facebook.com/settings?tab=ads" target="_blank" rel="noopener noreferrer">https://www.facebook.com/settings?tab=ads</a>
-    </p> <p>Google/
-    YouTube: <a href="https://adssettings.google.com/authenticated?hl=de" target="_blank" rel="noopener noreferrer">https://adssettings.google.com/authenticated?hl=de</a>
-  </p>
-    <p>Twitter: <a href="https://twitter.com/personalization" target="_blank" rel="noopener noreferrer">https://twitter.com/personalization </a>
-    </p>
-    <p>Instagram: <a href="https://help.instagram.com/519522125107875" target="_blank" rel="noopener noreferrer">https://help.instagram.com/519522125107875</a>
-    </p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out</a>
-    </p> <p><strong>8.&nbsp;Kontaktm&ouml;glichkeiten und Ihre Rechte</strong>
-  </p>
-    <p>Als Betroffener haben Sie folgende Rechte:</p>
-    <ul>
-      <li><p>gem&auml;&szlig; Art. 15 DSGVO das Recht, in dem dort bezeichneten
-        Umfang Auskunft &uuml;ber Ihre von uns verarbeiteten personenbezogenen
-        Daten zu verlangen;
-      </p></li>
-      <li><p>gem&auml;&szlig; Art. 16 DSGVO das Recht, unverz&uuml;glich die
-        Berichtigung unrichtiger oder Vervollst&auml;ndigung Ihrer bei uns
-        gespeicherten personenbezogenen Daten zu verlangen;
-      </p></li>
-      <li>
-        <p>gem&auml;&szlig; Art. 17 DSGVO das Recht, die L&ouml;schung Ihrer
-          bei
-          uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht
-          die
-          weitere Verarbeitung <ul>
-            <li>zur Aus&uuml;bung des Rechts auf freie
-              Meinungs&auml;u&szlig;erung
-              und Information;
-            </li>
-            <li>zur Erf&uuml;llung einer rechtlichen Verpflichtung;</li>
-            <li>aus Gr&uuml;nden des &ouml;ffentlichen Interesses oder</li>
-            <li>zur Geltendmachung, Aus&uuml;bung oder Verteidigung von
-              Rechtsanspr&uuml;chen erforderlich ist;
-            </li>
-          </ul></p></li>
-      <li>
-        <p>gem&auml;&szlig; Art. 18 DSGVO das Recht, die Einschr&auml;nkung der
-          Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit <ul>
-            <li>die Richtigkeit der Daten von Ihnen bestritten wird;</li>
-            <li>die Verarbeitung unrechtm&auml;&szlig;ig ist, Sie aber deren
-              L&ouml;schung ablehnen;
-            </li>
-            <li>wir die Daten nicht mehr ben&ouml;tigen, Sie diese jedoch zur
-              Geltendmachung, Aus&uuml;bung oder Verteidigung von
-              Rechtsanspr&uuml;chen ben&ouml;tigen oder
-            </li>
-            <li>Sie gem&auml;&szlig; Art. 21 DSGVO Widerspruch gegen die
-              Verarbeitung eingelegt haben;
-            </li>
-          </ul></p></li>
-      <li><p>gem&auml;&szlig; Art. 20 DSGVO das Recht, Ihre personenbezogenen
-        Daten, die Sie uns bereitgestellt haben, in einem strukturierten,
-        g&auml;ngigen und maschinenlesebaren Format zu erhalten oder
-        die &Uuml;bermittlung an einen anderen Verantwortlichen zu verlangen;
-      </p></li>
-      <li><p>gem&auml;&szlig; Art. 77 DSGVO das Recht, sich bei einer
-        Aufsichtsbeh&ouml;rde zu beschweren. In der Regel k&ouml;nnen Sie sich
-        hierf&uuml;r an die Aufsichtsbeh&ouml;rde Ihres &uuml;blichen
-        Aufenthaltsortes oder Arbeitsplatzes oder unseres Unternehmenssitzes
-        wenden.
-      </p></li>
-    </ul>
-    <p>Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer
-      personenbezogenen Daten, bei Ausk&uuml;nften, Berichtigung,
-      Einschr&auml;nkung oder L&ouml;schung von Daten sowie Widerruf erteilter
-      Einwilligungen oder Widerspruch gegen eine bestimmte Datenverwendung
-      wenden Sie sich bitte direkt an uns &uuml;ber die Kontaktdaten in unserem
-      Impressum.</p>
-    <p><strong>Widerspruchsrecht</strong><br/> Soweit wir zur Wahrung
-      unserer im Rahmen einer Interessensabw&auml;gung &uuml;berwiegenden
-      berechtigten Interessen personenbezogene Daten wie oben erl&auml;utert
-      verarbeiten, k&ouml;nnen Sie dieser Verarbeitung mit Wirkung f&uuml;r
-      die Zukunft widersprechen. Erfolgt die Verarbeitung zu Zwecken des
-      Direktmarketings, k&ouml;nnen Sie dieses Recht jederzeit wie oben
-      beschrieben aus&uuml;ben. Soweit die Verarbeitung zu anderen Zwecken
-      erfolgt, steht Ihnen ein Widerspruchsrecht nur bei Vorliegen von
-      Gr&uuml;nden, die sich aus Ihrer besonderen Situation ergeben, zu.</p>
-    <p>Nach Aus&uuml;bung Ihres Widerspruchsrechts werden wir Ihre
-      personenbezogenen Daten nicht weiter zu diesen Zwecken verarbeiten,
-      es sei denn, wir k&ouml;nnen zwingende schutzw&uuml;rdige
-      Gr&uuml;nde f&uuml;r die Verarbeitung nachweisen, die Ihre
-      Interessen, Rechte und Freiheiten &uuml;berwiegen, oder wenn die
-      Verarbeitung der Geltendmachung, Aus&uuml;bung oder Verteidigung von
-      Rechtsanspr&uuml;chen dient</p> <p>Dies gilt nicht, wenn die
-    Verarbeitung zu Zwecken des Direktmarketings erfolgt. Dann werden
-    wir Ihre personenbezogenen Daten nicht weiter zu diesem Zweck
-    verarbeiten.</p>
-    <p>
-      <i><a target="_blank" rel="noopener noreferrer" title="Datenschutzerklärung" href="https://shop.trustedshops.com/de/rechtstexte/">Datenschutzerklärung</a> erstellt
-        mit
-        dem <a target="_blank" rel="noopener noreferrer" title="Trusted Shops" href="https://shop.trustedshops.com/de/">Trusted
-          Shops</a> Rechtstexter in Kooperation
-        mit <a target="_blank" title="FÖHLISCH Rechtsanwälte" href="https://foehlisch.com" rel="noopener noreferrer">FÖHLISCH
-          Rechtsanwälte</a>.</i></p>
-  </>
+  <p> As a data subject, you have the following rights: </p>
+  <ul>
+    <li> <p> according to   Art. 15 DSGVO the right in the specified there
+      Extent of information about your personal data processed by us
+      To request data;
+    </p> </li>
+    <li> <p> according to & r auml; & szlig; Art. 16 GDPR the right to immediately withdraw the
+      Correction of incorrect or complete yours with us
+      to request stored personal data;
+    </p> </li>
+    <li>
+      <p> according to   Art. 17 GDPR the right to have your
+        at
+        to request personal data stored by us, if not
+        the
+        further processing <ul>
+          <li> to exercise the right to freedom
+            Expression of opinion
+            and information;
+          </li>
+          <li> to fulfill a legal obligation; </li>
+          <li> for reasons of public interest or </li>
+          <li> for the establishment, exercise or defense of
+            Legal entitlements is required;
+          </li>
+        </ul></p> </li>
+    <li>
+      <p> according to   Art. 18 GDPR the right to restrict the
+        To request processing of your personal data, as far as <ul>
+          <li> the accuracy of the data is contested by you; </li>
+          <li> the processing is unlawful, but you are theirs
+            Refuse deletion;
+          </li>
+          <li> We no longer need the data, but you do
+            Assertion, exercise or defense of
+            Require legal claims or
+          </li>
+          <li> You according to   Art. 21 GDPR objection to the
+            Have filed processing;
+          </li>
+        </ul></p> </li>
+    <li> <p> according to   Art. 20 GDPR the right to your personal
+      Data that you have provided to us in a structured,
+      standard and machine-readable format or
+      to request the transfer to another responsible person;
+    </p> </li>
+    <li> <p> according to   Art. 77 GDPR the right to object to a
+      To complain to supervisory authority. Usually you can
+      for this to the supervisory authority of your usual
+      Whereabouts or place of work or our company headquarters
+      turn.
+    </p> </li>
+  </ul>
+  <p> If you have any questions about the collection, processing or use of your
+    personal data, for information, correction,
+    Restriction or deletion of data as well as revocation of granted
+    Consent or objection to a specific use of data
+    please contact us directly using the contact details in our
+    Imprint. </p>
+  <p> <strong> Right of objection </strong> <br/> As far as we are concerned
+    our predominant in the context of a weighing of interests
+    legitimate interests personal data as explained above
+    process, you can use this processing with effect for
+    contradict the future. If the processing is carried out for the purposes of
+    Direct marketing, you can use this right at any time as above
+    described from & uuml; ben. As far as processing for other purposes
+    occurs, you only have a right of objection if
+    Reasons that arise from your particular situation. </p>
+  <p> After exercising your right of objection, we will become yours
+    no longer process personal data for these purposes,
+    unless we can provide mandatory protection
+    Reasons for processing can prove that your
+    Interests, rights and freedoms predominate, or if the
+    Processing the assertion, exercise or defense of
+    Legal claim serves </p> <p> This does not apply if the
+  Processing is carried out for direct marketing purposes. Then will
+  we do not use your personal data for this purpose
+  process. </p>
+
+</>
 );

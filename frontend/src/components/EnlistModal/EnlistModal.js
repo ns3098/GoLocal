@@ -49,7 +49,7 @@ const EnlistModal = () => {
 
   return !enlistHide && showModal && <div className="EnlistModal">
     <Modal onClose={() => setShowModal(false)}
-           header={<><h2>{t('Be a part of GoLocal')}</h2><p>{t('mailing-list:text')}</p></>}
+           header={<><h2>{t('mailing-list:head')}</h2><p>{t('mailing-list:text')}</p></>}
            footer={
       <div className="Enlist__social">
         <p>{t('mailing-list:social')}</p>
@@ -74,3 +74,9 @@ const EnlistModal = () => {
 };
 
 export default EnlistModal;
+
+
+
+
+
+

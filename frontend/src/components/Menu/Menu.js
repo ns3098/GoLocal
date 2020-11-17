@@ -52,7 +52,7 @@ function Menu({ partner, isAuthenticated }) {
           </li>
           {links.map((component, index) => <li className="Menu-list-item Menu-link" onClick={() => setMenuOpen(false)} key={index}>{component}</li>)}
         </ul>
-        <div className="Menu-footer">© 2020 GoLocal</div>
+        <div className="Menu-footer">© 2020 Covexit</div>
       </div>
     </nav>
   );

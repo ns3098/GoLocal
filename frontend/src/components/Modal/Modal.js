@@ -27,3 +27,9 @@ const Modal = ({ header, children, footer, onClose }) => {
 }
 
 export default Modal;
+
+
+
+
+
+

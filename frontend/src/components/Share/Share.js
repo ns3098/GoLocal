@@ -7,7 +7,7 @@ import Modal from '../Modal/Modal';
 function Share() {
   const [modalShow, setModalShow] = useState(false);
   const [copySuccess, setCopySuccess] = useState(false);
-  const message = "Share GoLocal with others and help during this crisis!";
+  const message = "Share Covexit with others and help during this crisis!";
   const urlRef = useRef();
   const url = window.location.href;
   const handleClick = () => {

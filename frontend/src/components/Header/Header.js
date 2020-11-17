@@ -9,7 +9,7 @@ import { useUserContext } from 'context/UserContext';
 import useApi from 'shared/api';
 import { useMediaQuery } from 'react-responsive';
 
- 
+
 function Header() {
   const [partner, setPartner] = useState(false);
   const { partners, isAuthenticated } = useUserContext();

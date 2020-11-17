@@ -10,17 +10,16 @@ const StoreList = () => {
   const [stores, setStores] = useState([])
   const { API } = useApi();
   const { store, setHoveredStore } = useStoreListContext()
+
   useEffect(() => {
     const getStores = async () => {
       const response = await API.partners.get()
       setStores(response.data);
     }
     getStores();
+
   }, [API])
 
-  var str = JSON.stringify(stores);
-  //window.alert(str);
-  //console.log(str);
   const handleExternalHover = storeItem => {
     if (store) {
       return storeItem.id === store.id ? 'StoreList-store--hovered' : ''
